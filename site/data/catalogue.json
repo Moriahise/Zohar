@@ -2,6 +2,32 @@
   "schema": 1,
   "editions": [
     {
+      "id": "5787-2026-10-10",
+      "title": {
+        "en": "Before colour: reading the beginning",
+        "he": "לפני הצבע: קריאה בראשית"
+      },
+      "parashah": {
+        "en": "Bereshit",
+        "he": "בראשית"
+      },
+      "target_shabbat": "2026-10-10",
+      "category": "zohar"
+    },
+    {
+      "id": "5787-2026-10-17",
+      "title": {
+        "en": "The righteous person and the covenant",
+        "he": "הצדיק והברית"
+      },
+      "parashah": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "target_shabbat": "2026-10-17",
+      "category": "zohar"
+    },
+    {
       "id": "5787-2026-10-24",
       "title": {
         "en": "An open heart begins the journey",
