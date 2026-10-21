@@ -1,4 +1,18 @@
 {
   "schema": 1,
-  "editions": []
+  "editions": [
+    {
+      "id": "5787-2026-10-24",
+      "title": {
+        "en": "An open heart begins the journey",
+        "he": "לב פתוח בתחילת הדרך"
+      },
+      "parashah": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "target_shabbat": "2026-10-24",
+      "category": "zohar"
+    }
+  ]
 }
