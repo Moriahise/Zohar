@@ -1,0 +1,2535 @@
+{
+  "schema": 1,
+  "calculated_at": "2026-10-21T09:59:50.639328+03:00",
+  "timezone": "Asia/Jerusalem",
+  "weeks": [
+    {
+      "target_shabbat": "2026-10-10",
+      "hebrew_date": "כ״ט תשרי תשפ״ז",
+      "israel": {
+        "en": "Bereishis",
+        "he": "בראשית"
+      },
+      "diaspora": {
+        "en": "Bereishis",
+        "he": "בראשית"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-10-17",
+      "hebrew_date": "ו׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "diaspora": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-10-24",
+      "hebrew_date": "י״ג חשון תשפ״ז",
+      "israel": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "diaspora": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-10-31",
+      "hebrew_date": "כ׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Vayeira",
+        "he": "וירא"
+      },
+      "diaspora": {
+        "en": "Vayeira",
+        "he": "וירא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-11-07",
+      "hebrew_date": "כ״ז חשון תשפ״ז",
+      "israel": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
+      },
+      "diaspora": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-11-14",
+      "hebrew_date": "ד׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "diaspora": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-11-21",
+      "hebrew_date": "י״א כסלו תשפ״ז",
+      "israel": {
+        "en": "Vayeitzei",
+        "he": "ויצא"
+      },
+      "diaspora": {
+        "en": "Vayeitzei",
+        "he": "ויצא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-11-28",
+      "hebrew_date": "י״ח כסלו תשפ״ז",
+      "israel": {
+        "en": "Vayishlach",
+        "he": "וישלח"
+      },
+      "diaspora": {
+        "en": "Vayishlach",
+        "he": "וישלח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-12-05",
+      "hebrew_date": "כ״ה כסלו תשפ״ז",
+      "israel": {
+        "en": "Vayeishev",
+        "he": "וישב"
+      },
+      "diaspora": {
+        "en": "Vayeishev",
+        "he": "וישב"
+      },
+      "different_readings": false,
+      "festival": "Chanuka",
+      "festival_he": "חנוכה",
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-12-12",
+      "hebrew_date": "ב׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Mikeitz",
+        "he": "מקץ"
+      },
+      "diaspora": {
+        "en": "Mikeitz",
+        "he": "מקץ"
+      },
+      "different_readings": false,
+      "festival": "Chanuka",
+      "festival_he": "חנוכה",
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-12-19",
+      "hebrew_date": "ט׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Vayigash",
+        "he": "ויגש"
+      },
+      "diaspora": {
+        "en": "Vayigash",
+        "he": "ויגש"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2026-12-26",
+      "hebrew_date": "ט״ז טבת תשפ״ז",
+      "israel": {
+        "en": "Vayechi",
+        "he": "ויחי"
+      },
+      "diaspora": {
+        "en": "Vayechi",
+        "he": "ויחי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-01-02",
+      "hebrew_date": "כ״ג טבת תשפ״ז",
+      "israel": {
+        "en": "Shemos",
+        "he": "שמות"
+      },
+      "diaspora": {
+        "en": "Shemos",
+        "he": "שמות"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-01-09",
+      "hebrew_date": "א׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Va'eira",
+        "he": "וארא"
+      },
+      "diaspora": {
+        "en": "Va'eira",
+        "he": "וארא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-01-16",
+      "hebrew_date": "ח׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Bo",
+        "he": "בא"
+      },
+      "diaspora": {
+        "en": "Bo",
+        "he": "בא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-01-23",
+      "hebrew_date": "ט״ו שבט תשפ״ז",
+      "israel": {
+        "en": "Beshalach",
+        "he": "בשלח"
+      },
+      "diaspora": {
+        "en": "Beshalach",
+        "he": "בשלח"
+      },
+      "different_readings": false,
+      "festival": "Tu B'shvat",
+      "festival_he": "ט״ו בשבט",
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-01-30",
+      "hebrew_date": "כ״ב שבט תשפ״ז",
+      "israel": {
+        "en": "Yisro",
+        "he": "יתרו"
+      },
+      "diaspora": {
+        "en": "Yisro",
+        "he": "יתרו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-02-06",
+      "hebrew_date": "כ״ט שבט תשפ״ז",
+      "israel": {
+        "en": "Mishpatim",
+        "he": "משפטים"
+      },
+      "diaspora": {
+        "en": "Mishpatim",
+        "he": "משפטים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-02-13",
+      "hebrew_date": "ו׳ אדר א׳ תשפ״ז",
+      "israel": {
+        "en": "Terumah",
+        "he": "תרומה"
+      },
+      "diaspora": {
+        "en": "Terumah",
+        "he": "תרומה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-02-20",
+      "hebrew_date": "י״ג אדר א׳ תשפ״ז",
+      "israel": {
+        "en": "Tetzaveh",
+        "he": "תצוה"
+      },
+      "diaspora": {
+        "en": "Tetzaveh",
+        "he": "תצוה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-02-27",
+      "hebrew_date": "כ׳ אדר א׳ תשפ״ז",
+      "israel": {
+        "en": "Ki Sisa",
+        "he": "כי תשא"
+      },
+      "diaspora": {
+        "en": "Ki Sisa",
+        "he": "כי תשא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-03-06",
+      "hebrew_date": "כ״ז אדר א׳ תשפ״ז",
+      "israel": {
+        "en": "Vayakhel",
+        "he": "ויקהל"
+      },
+      "diaspora": {
+        "en": "Vayakhel",
+        "he": "ויקהל"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-03-13",
+      "hebrew_date": "ד׳ אדר ב׳ תשפ״ז",
+      "israel": {
+        "en": "Pekudei",
+        "he": "פקודי"
+      },
+      "diaspora": {
+        "en": "Pekudei",
+        "he": "פקודי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-03-20",
+      "hebrew_date": "י״א אדר ב׳ תשפ״ז",
+      "israel": {
+        "en": "Vayikra",
+        "he": "ויקרא"
+      },
+      "diaspora": {
+        "en": "Vayikra",
+        "he": "ויקרא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-03-27",
+      "hebrew_date": "י״ח אדר ב׳ תשפ״ז",
+      "israel": {
+        "en": "Tzav",
+        "he": "צו"
+      },
+      "diaspora": {
+        "en": "Tzav",
+        "he": "צו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-04-03",
+      "hebrew_date": "כ״ה אדר ב׳ תשפ״ז",
+      "israel": {
+        "en": "Shemini",
+        "he": "שמיני"
+      },
+      "diaspora": {
+        "en": "Shemini",
+        "he": "שמיני"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-04-10",
+      "hebrew_date": "ג׳ ניסן תשפ״ז",
+      "israel": {
+        "en": "Tazria",
+        "he": "תזריע"
+      },
+      "diaspora": {
+        "en": "Tazria",
+        "he": "תזריע"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-04-17",
+      "hebrew_date": "י׳ ניסן תשפ״ז",
+      "israel": {
+        "en": "Metzora",
+        "he": "מצורע"
+      },
+      "diaspora": {
+        "en": "Metzora",
+        "he": "מצורע"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-04-24",
+      "hebrew_date": "י״ז ניסן תשפ״ז",
+      "israel": {
+        "en": "Pesach",
+        "he": "פסח"
+      },
+      "diaspora": {
+        "en": "Pesach",
+        "he": "פסח"
+      },
+      "different_readings": false,
+      "festival": "Pesach",
+      "festival_he": "פסח",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2027-05-01",
+      "hebrew_date": "כ״ד ניסן תשפ״ז",
+      "israel": {
+        "en": "Acharei Mos",
+        "he": "אחרי מות"
+      },
+      "diaspora": {
+        "en": "Acharei Mos",
+        "he": "אחרי מות"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-05-08",
+      "hebrew_date": "א׳ אייר תשפ״ז",
+      "israel": {
+        "en": "Kedoshim",
+        "he": "קדושים"
+      },
+      "diaspora": {
+        "en": "Kedoshim",
+        "he": "קדושים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-05-15",
+      "hebrew_date": "ח׳ אייר תשפ״ז",
+      "israel": {
+        "en": "Emor",
+        "he": "אמור"
+      },
+      "diaspora": {
+        "en": "Emor",
+        "he": "אמור"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-05-22",
+      "hebrew_date": "ט״ו אייר תשפ״ז",
+      "israel": {
+        "en": "Behar",
+        "he": "בהר"
+      },
+      "diaspora": {
+        "en": "Behar",
+        "he": "בהר"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-05-29",
+      "hebrew_date": "כ״ב אייר תשפ״ז",
+      "israel": {
+        "en": "Bechukosai",
+        "he": "בחוקותי"
+      },
+      "diaspora": {
+        "en": "Bechukosai",
+        "he": "בחוקותי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-06-05",
+      "hebrew_date": "כ״ט אייר תשפ״ז",
+      "israel": {
+        "en": "Bamidbar",
+        "he": "במדבר"
+      },
+      "diaspora": {
+        "en": "Bamidbar",
+        "he": "במדבר"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-06-12",
+      "hebrew_date": "ז׳ סיון תשפ״ז",
+      "israel": {
+        "en": "Nasso",
+        "he": "נשא"
+      },
+      "diaspora": {
+        "en": "Shavuos",
+        "he": "שבועות"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-06-19",
+      "hebrew_date": "י״ד סיון תשפ״ז",
+      "israel": {
+        "en": "Beha'aloscha",
+        "he": "בהעלותך"
+      },
+      "diaspora": {
+        "en": "Nasso",
+        "he": "נשא"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-06-26",
+      "hebrew_date": "כ״א סיון תשפ״ז",
+      "israel": {
+        "en": "Shelach",
+        "he": "שלח"
+      },
+      "diaspora": {
+        "en": "Beha'aloscha",
+        "he": "בהעלותך"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-07-03",
+      "hebrew_date": "כ״ח סיון תשפ״ז",
+      "israel": {
+        "en": "Korach",
+        "he": "קרח"
+      },
+      "diaspora": {
+        "en": "Shelach",
+        "he": "שלח"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-07-10",
+      "hebrew_date": "ה׳ תמוז תשפ״ז",
+      "israel": {
+        "en": "Chukas",
+        "he": "חקת"
+      },
+      "diaspora": {
+        "en": "Korach",
+        "he": "קרח"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-07-17",
+      "hebrew_date": "י״ב תמוז תשפ״ז",
+      "israel": {
+        "en": "Balak",
+        "he": "בלק"
+      },
+      "diaspora": {
+        "en": "Chukas, Balak",
+        "he": "חקת, בלק"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-07-24",
+      "hebrew_date": "י״ט תמוז תשפ״ז",
+      "israel": {
+        "en": "Pinchas",
+        "he": "פינחס"
+      },
+      "diaspora": {
+        "en": "Pinchas",
+        "he": "פינחס"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-07-31",
+      "hebrew_date": "כ״ו תמוז תשפ״ז",
+      "israel": {
+        "en": "Mattos, Masei",
+        "he": "מטות, מסעי"
+      },
+      "diaspora": {
+        "en": "Mattos, Masei",
+        "he": "מטות, מסעי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-08-07",
+      "hebrew_date": "ד׳ אב תשפ״ז",
+      "israel": {
+        "en": "Devarim",
+        "he": "דברים"
+      },
+      "diaspora": {
+        "en": "Devarim",
+        "he": "דברים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-08-14",
+      "hebrew_date": "י״א אב תשפ״ז",
+      "israel": {
+        "en": "Va'eschanan",
+        "he": "ואתחנן"
+      },
+      "diaspora": {
+        "en": "Va'eschanan",
+        "he": "ואתחנן"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-08-21",
+      "hebrew_date": "י״ח אב תשפ״ז",
+      "israel": {
+        "en": "Eikev",
+        "he": "עקב"
+      },
+      "diaspora": {
+        "en": "Eikev",
+        "he": "עקב"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-08-28",
+      "hebrew_date": "כ״ה אב תשפ״ז",
+      "israel": {
+        "en": "Re'eh",
+        "he": "ראה"
+      },
+      "diaspora": {
+        "en": "Re'eh",
+        "he": "ראה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-09-04",
+      "hebrew_date": "ב׳ אלול תשפ״ז",
+      "israel": {
+        "en": "Shoftim",
+        "he": "שופטים"
+      },
+      "diaspora": {
+        "en": "Shoftim",
+        "he": "שופטים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-09-11",
+      "hebrew_date": "ט׳ אלול תשפ״ז",
+      "israel": {
+        "en": "Ki Seitzei",
+        "he": "כי תצא"
+      },
+      "diaspora": {
+        "en": "Ki Seitzei",
+        "he": "כי תצא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-09-18",
+      "hebrew_date": "ט״ז אלול תשפ״ז",
+      "israel": {
+        "en": "Ki Savo",
+        "he": "כי תבא"
+      },
+      "diaspora": {
+        "en": "Ki Savo",
+        "he": "כי תבא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-09-25",
+      "hebrew_date": "כ״ג אלול תשפ״ז",
+      "israel": {
+        "en": "Nitzavim, Vayeilech",
+        "he": "נצבים, וילך"
+      },
+      "diaspora": {
+        "en": "Nitzavim, Vayeilech",
+        "he": "נצבים, וילך"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-10-02",
+      "hebrew_date": "א׳ תשרי תשפ״ח",
+      "israel": {
+        "en": "Rosh Hashana",
+        "he": "ראש השנה"
+      },
+      "diaspora": {
+        "en": "Rosh Hashana",
+        "he": "ראש השנה"
+      },
+      "different_readings": false,
+      "festival": "Rosh Hashana",
+      "festival_he": "ראש השנה",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2027-10-09",
+      "hebrew_date": "ח׳ תשרי תשפ״ח",
+      "israel": {
+        "en": "Haazinu",
+        "he": "האזינו"
+      },
+      "diaspora": {
+        "en": "Haazinu",
+        "he": "האזינו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-10-16",
+      "hebrew_date": "ט״ו תשרי תשפ״ח",
+      "israel": {
+        "en": "Succos",
+        "he": "סוכות"
+      },
+      "diaspora": {
+        "en": "Succos",
+        "he": "סוכות"
+      },
+      "different_readings": false,
+      "festival": "Succos",
+      "festival_he": "סוכות",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2027-10-23",
+      "hebrew_date": "כ״ב תשרי תשפ״ח",
+      "israel": {
+        "en": "Shmini Atzeres",
+        "he": "שמיני עצרת"
+      },
+      "diaspora": {
+        "en": "Shmini Atzeres",
+        "he": "שמיני עצרת"
+      },
+      "different_readings": false,
+      "festival": "Shmini Atzeres",
+      "festival_he": "שמיני עצרת",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2027-10-30",
+      "hebrew_date": "כ״ט תשרי תשפ״ח",
+      "israel": {
+        "en": "Bereishis",
+        "he": "בראשית"
+      },
+      "diaspora": {
+        "en": "Bereishis",
+        "he": "בראשית"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-11-06",
+      "hebrew_date": "ו׳ חשון תשפ״ח",
+      "israel": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "diaspora": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-11-13",
+      "hebrew_date": "י״ג חשון תשפ״ח",
+      "israel": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "diaspora": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-11-20",
+      "hebrew_date": "כ׳ חשון תשפ״ח",
+      "israel": {
+        "en": "Vayeira",
+        "he": "וירא"
+      },
+      "diaspora": {
+        "en": "Vayeira",
+        "he": "וירא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-11-27",
+      "hebrew_date": "כ״ז חשון תשפ״ח",
+      "israel": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
+      },
+      "diaspora": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-12-04",
+      "hebrew_date": "ד׳ כסלו תשפ״ח",
+      "israel": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "diaspora": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-12-11",
+      "hebrew_date": "י״א כסלו תשפ״ח",
+      "israel": {
+        "en": "Vayeitzei",
+        "he": "ויצא"
+      },
+      "diaspora": {
+        "en": "Vayeitzei",
+        "he": "ויצא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-12-18",
+      "hebrew_date": "י״ח כסלו תשפ״ח",
+      "israel": {
+        "en": "Vayishlach",
+        "he": "וישלח"
+      },
+      "diaspora": {
+        "en": "Vayishlach",
+        "he": "וישלח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-12-25",
+      "hebrew_date": "כ״ה כסלו תשפ״ח",
+      "israel": {
+        "en": "Vayeishev",
+        "he": "וישב"
+      },
+      "diaspora": {
+        "en": "Vayeishev",
+        "he": "וישב"
+      },
+      "different_readings": false,
+      "festival": "Chanuka",
+      "festival_he": "חנוכה",
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-01-01",
+      "hebrew_date": "ב׳ טבת תשפ״ח",
+      "israel": {
+        "en": "Mikeitz",
+        "he": "מקץ"
+      },
+      "diaspora": {
+        "en": "Mikeitz",
+        "he": "מקץ"
+      },
+      "different_readings": false,
+      "festival": "Chanuka",
+      "festival_he": "חנוכה",
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-01-08",
+      "hebrew_date": "ט׳ טבת תשפ״ח",
+      "israel": {
+        "en": "Vayigash",
+        "he": "ויגש"
+      },
+      "diaspora": {
+        "en": "Vayigash",
+        "he": "ויגש"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-01-15",
+      "hebrew_date": "ט״ז טבת תשפ״ח",
+      "israel": {
+        "en": "Vayechi",
+        "he": "ויחי"
+      },
+      "diaspora": {
+        "en": "Vayechi",
+        "he": "ויחי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-01-22",
+      "hebrew_date": "כ״ג טבת תשפ״ח",
+      "israel": {
+        "en": "Shemos",
+        "he": "שמות"
+      },
+      "diaspora": {
+        "en": "Shemos",
+        "he": "שמות"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-01-29",
+      "hebrew_date": "א׳ שבט תשפ״ח",
+      "israel": {
+        "en": "Va'eira",
+        "he": "וארא"
+      },
+      "diaspora": {
+        "en": "Va'eira",
+        "he": "וארא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-02-05",
+      "hebrew_date": "ח׳ שבט תשפ״ח",
+      "israel": {
+        "en": "Bo",
+        "he": "בא"
+      },
+      "diaspora": {
+        "en": "Bo",
+        "he": "בא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-02-12",
+      "hebrew_date": "ט״ו שבט תשפ״ח",
+      "israel": {
+        "en": "Beshalach",
+        "he": "בשלח"
+      },
+      "diaspora": {
+        "en": "Beshalach",
+        "he": "בשלח"
+      },
+      "different_readings": false,
+      "festival": "Tu B'shvat",
+      "festival_he": "ט״ו בשבט",
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-02-19",
+      "hebrew_date": "כ״ב שבט תשפ״ח",
+      "israel": {
+        "en": "Yisro",
+        "he": "יתרו"
+      },
+      "diaspora": {
+        "en": "Yisro",
+        "he": "יתרו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-02-26",
+      "hebrew_date": "כ״ט שבט תשפ״ח",
+      "israel": {
+        "en": "Mishpatim",
+        "he": "משפטים"
+      },
+      "diaspora": {
+        "en": "Mishpatim",
+        "he": "משפטים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-03-04",
+      "hebrew_date": "ו׳ אדר תשפ״ח",
+      "israel": {
+        "en": "Terumah",
+        "he": "תרומה"
+      },
+      "diaspora": {
+        "en": "Terumah",
+        "he": "תרומה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-03-11",
+      "hebrew_date": "י״ג אדר תשפ״ח",
+      "israel": {
+        "en": "Tetzaveh",
+        "he": "תצוה"
+      },
+      "diaspora": {
+        "en": "Tetzaveh",
+        "he": "תצוה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-03-18",
+      "hebrew_date": "כ׳ אדר תשפ״ח",
+      "israel": {
+        "en": "Ki Sisa",
+        "he": "כי תשא"
+      },
+      "diaspora": {
+        "en": "Ki Sisa",
+        "he": "כי תשא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-03-25",
+      "hebrew_date": "כ״ז אדר תשפ״ח",
+      "israel": {
+        "en": "Vayakhel, Pekudei",
+        "he": "ויקהל, פקודי"
+      },
+      "diaspora": {
+        "en": "Vayakhel, Pekudei",
+        "he": "ויקהל, פקודי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-04-01",
+      "hebrew_date": "ה׳ ניסן תשפ״ח",
+      "israel": {
+        "en": "Vayikra",
+        "he": "ויקרא"
+      },
+      "diaspora": {
+        "en": "Vayikra",
+        "he": "ויקרא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-04-08",
+      "hebrew_date": "י״ב ניסן תשפ״ח",
+      "israel": {
+        "en": "Tzav",
+        "he": "צו"
+      },
+      "diaspora": {
+        "en": "Tzav",
+        "he": "צו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-04-15",
+      "hebrew_date": "י״ט ניסן תשפ״ח",
+      "israel": {
+        "en": "Pesach",
+        "he": "פסח"
+      },
+      "diaspora": {
+        "en": "Pesach",
+        "he": "פסח"
+      },
+      "different_readings": false,
+      "festival": "Pesach",
+      "festival_he": "פסח",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2028-04-22",
+      "hebrew_date": "כ״ו ניסן תשפ״ח",
+      "israel": {
+        "en": "Shemini",
+        "he": "שמיני"
+      },
+      "diaspora": {
+        "en": "Shemini",
+        "he": "שמיני"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-04-29",
+      "hebrew_date": "ג׳ אייר תשפ״ח",
+      "israel": {
+        "en": "Tazria, Metzora",
+        "he": "תזריע, מצורע"
+      },
+      "diaspora": {
+        "en": "Tazria, Metzora",
+        "he": "תזריע, מצורע"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-05-06",
+      "hebrew_date": "י׳ אייר תשפ״ח",
+      "israel": {
+        "en": "Acharei Mos, Kedoshim",
+        "he": "אחרי מות, קדושים"
+      },
+      "diaspora": {
+        "en": "Acharei Mos, Kedoshim",
+        "he": "אחרי מות, קדושים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-05-13",
+      "hebrew_date": "י״ז אייר תשפ״ח",
+      "israel": {
+        "en": "Emor",
+        "he": "אמור"
+      },
+      "diaspora": {
+        "en": "Emor",
+        "he": "אמור"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-05-20",
+      "hebrew_date": "כ״ד אייר תשפ״ח",
+      "israel": {
+        "en": "Behar, Bechukosai",
+        "he": "בהר, בחוקותי"
+      },
+      "diaspora": {
+        "en": "Behar, Bechukosai",
+        "he": "בהר, בחוקותי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-05-27",
+      "hebrew_date": "ב׳ סיון תשפ״ח",
+      "israel": {
+        "en": "Bamidbar",
+        "he": "במדבר"
+      },
+      "diaspora": {
+        "en": "Bamidbar",
+        "he": "במדבר"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-06-03",
+      "hebrew_date": "ט׳ סיון תשפ״ח",
+      "israel": {
+        "en": "Nasso",
+        "he": "נשא"
+      },
+      "diaspora": {
+        "en": "Nasso",
+        "he": "נשא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-06-10",
+      "hebrew_date": "ט״ז סיון תשפ״ח",
+      "israel": {
+        "en": "Beha'aloscha",
+        "he": "בהעלותך"
+      },
+      "diaspora": {
+        "en": "Beha'aloscha",
+        "he": "בהעלותך"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-06-17",
+      "hebrew_date": "כ״ג סיון תשפ״ח",
+      "israel": {
+        "en": "Shelach",
+        "he": "שלח"
+      },
+      "diaspora": {
+        "en": "Shelach",
+        "he": "שלח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-06-24",
+      "hebrew_date": "ל׳ סיון תשפ״ח",
+      "israel": {
+        "en": "Korach",
+        "he": "קרח"
+      },
+      "diaspora": {
+        "en": "Korach",
+        "he": "קרח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-07-01",
+      "hebrew_date": "ז׳ תמוז תשפ״ח",
+      "israel": {
+        "en": "Chukas",
+        "he": "חקת"
+      },
+      "diaspora": {
+        "en": "Chukas",
+        "he": "חקת"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-07-08",
+      "hebrew_date": "י״ד תמוז תשפ״ח",
+      "israel": {
+        "en": "Balak",
+        "he": "בלק"
+      },
+      "diaspora": {
+        "en": "Balak",
+        "he": "בלק"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-07-15",
+      "hebrew_date": "כ״א תמוז תשפ״ח",
+      "israel": {
+        "en": "Pinchas",
+        "he": "פינחס"
+      },
+      "diaspora": {
+        "en": "Pinchas",
+        "he": "פינחס"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-07-22",
+      "hebrew_date": "כ״ח תמוז תשפ״ח",
+      "israel": {
+        "en": "Mattos, Masei",
+        "he": "מטות, מסעי"
+      },
+      "diaspora": {
+        "en": "Mattos, Masei",
+        "he": "מטות, מסעי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-07-29",
+      "hebrew_date": "ו׳ אב תשפ״ח",
+      "israel": {
+        "en": "Devarim",
+        "he": "דברים"
+      },
+      "diaspora": {
+        "en": "Devarim",
+        "he": "דברים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-08-05",
+      "hebrew_date": "י״ג אב תשפ״ח",
+      "israel": {
+        "en": "Va'eschanan",
+        "he": "ואתחנן"
+      },
+      "diaspora": {
+        "en": "Va'eschanan",
+        "he": "ואתחנן"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-08-12",
+      "hebrew_date": "כ׳ אב תשפ״ח",
+      "israel": {
+        "en": "Eikev",
+        "he": "עקב"
+      },
+      "diaspora": {
+        "en": "Eikev",
+        "he": "עקב"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-08-19",
+      "hebrew_date": "כ״ז אב תשפ״ח",
+      "israel": {
+        "en": "Re'eh",
+        "he": "ראה"
+      },
+      "diaspora": {
+        "en": "Re'eh",
+        "he": "ראה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-08-26",
+      "hebrew_date": "ד׳ אלול תשפ״ח",
+      "israel": {
+        "en": "Shoftim",
+        "he": "שופטים"
+      },
+      "diaspora": {
+        "en": "Shoftim",
+        "he": "שופטים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-09-02",
+      "hebrew_date": "י״א אלול תשפ״ח",
+      "israel": {
+        "en": "Ki Seitzei",
+        "he": "כי תצא"
+      },
+      "diaspora": {
+        "en": "Ki Seitzei",
+        "he": "כי תצא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-09-09",
+      "hebrew_date": "י״ח אלול תשפ״ח",
+      "israel": {
+        "en": "Ki Savo",
+        "he": "כי תבא"
+      },
+      "diaspora": {
+        "en": "Ki Savo",
+        "he": "כי תבא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-09-16",
+      "hebrew_date": "כ״ה אלול תשפ״ח",
+      "israel": {
+        "en": "Nitzavim, Vayeilech",
+        "he": "נצבים, וילך"
+      },
+      "diaspora": {
+        "en": "Nitzavim, Vayeilech",
+        "he": "נצבים, וילך"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-09-23",
+      "hebrew_date": "ג׳ תשרי תשפ״ט",
+      "israel": {
+        "en": "Haazinu",
+        "he": "האזינו"
+      },
+      "diaspora": {
+        "en": "Haazinu",
+        "he": "האזינו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-09-30",
+      "hebrew_date": "י׳ תשרי תשפ״ט",
+      "israel": {
+        "en": "Yom Kippur",
+        "he": "יום כיפור"
+      },
+      "diaspora": {
+        "en": "Yom Kippur",
+        "he": "יום כיפור"
+      },
+      "different_readings": false,
+      "festival": "Yom Kippur",
+      "festival_he": "יום כיפור",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2028-10-07",
+      "hebrew_date": "י״ז תשרי תשפ״ט",
+      "israel": {
+        "en": "Succos",
+        "he": "סוכות"
+      },
+      "diaspora": {
+        "en": "Succos",
+        "he": "סוכות"
+      },
+      "different_readings": false,
+      "festival": "Succos",
+      "festival_he": "סוכות",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2028-10-14",
+      "hebrew_date": "כ״ד תשרי תשפ״ט",
+      "israel": {
+        "en": "Bereishis",
+        "he": "בראשית"
+      },
+      "diaspora": {
+        "en": "Bereishis",
+        "he": "בראשית"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-10-21",
+      "hebrew_date": "א׳ חשון תשפ״ט",
+      "israel": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "diaspora": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-10-28",
+      "hebrew_date": "ח׳ חשון תשפ״ט",
+      "israel": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "diaspora": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-11-04",
+      "hebrew_date": "ט״ו חשון תשפ״ט",
+      "israel": {
+        "en": "Vayeira",
+        "he": "וירא"
+      },
+      "diaspora": {
+        "en": "Vayeira",
+        "he": "וירא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-11-11",
+      "hebrew_date": "כ״ב חשון תשפ״ט",
+      "israel": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
+      },
+      "diaspora": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-11-18",
+      "hebrew_date": "כ״ט חשון תשפ״ט",
+      "israel": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "diaspora": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-11-25",
+      "hebrew_date": "ז׳ כסלו תשפ״ט",
+      "israel": {
+        "en": "Vayeitzei",
+        "he": "ויצא"
+      },
+      "diaspora": {
+        "en": "Vayeitzei",
+        "he": "ויצא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-12-02",
+      "hebrew_date": "י״ד כסלו תשפ״ט",
+      "israel": {
+        "en": "Vayishlach",
+        "he": "וישלח"
+      },
+      "diaspora": {
+        "en": "Vayishlach",
+        "he": "וישלח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-12-09",
+      "hebrew_date": "כ״א כסלו תשפ״ט",
+      "israel": {
+        "en": "Vayeishev",
+        "he": "וישב"
+      },
+      "diaspora": {
+        "en": "Vayeishev",
+        "he": "וישב"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-12-16",
+      "hebrew_date": "כ״ח כסלו תשפ״ט",
+      "israel": {
+        "en": "Mikeitz",
+        "he": "מקץ"
+      },
+      "diaspora": {
+        "en": "Mikeitz",
+        "he": "מקץ"
+      },
+      "different_readings": false,
+      "festival": "Chanuka",
+      "festival_he": "חנוכה",
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-12-23",
+      "hebrew_date": "ה׳ טבת תשפ״ט",
+      "israel": {
+        "en": "Vayigash",
+        "he": "ויגש"
+      },
+      "diaspora": {
+        "en": "Vayigash",
+        "he": "ויגש"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2028-12-30",
+      "hebrew_date": "י״ב טבת תשפ״ט",
+      "israel": {
+        "en": "Vayechi",
+        "he": "ויחי"
+      },
+      "diaspora": {
+        "en": "Vayechi",
+        "he": "ויחי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-01-06",
+      "hebrew_date": "י״ט טבת תשפ״ט",
+      "israel": {
+        "en": "Shemos",
+        "he": "שמות"
+      },
+      "diaspora": {
+        "en": "Shemos",
+        "he": "שמות"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-01-13",
+      "hebrew_date": "כ״ו טבת תשפ״ט",
+      "israel": {
+        "en": "Va'eira",
+        "he": "וארא"
+      },
+      "diaspora": {
+        "en": "Va'eira",
+        "he": "וארא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-01-20",
+      "hebrew_date": "ד׳ שבט תשפ״ט",
+      "israel": {
+        "en": "Bo",
+        "he": "בא"
+      },
+      "diaspora": {
+        "en": "Bo",
+        "he": "בא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-01-27",
+      "hebrew_date": "י״א שבט תשפ״ט",
+      "israel": {
+        "en": "Beshalach",
+        "he": "בשלח"
+      },
+      "diaspora": {
+        "en": "Beshalach",
+        "he": "בשלח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-02-03",
+      "hebrew_date": "י״ח שבט תשפ״ט",
+      "israel": {
+        "en": "Yisro",
+        "he": "יתרו"
+      },
+      "diaspora": {
+        "en": "Yisro",
+        "he": "יתרו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-02-10",
+      "hebrew_date": "כ״ה שבט תשפ״ט",
+      "israel": {
+        "en": "Mishpatim",
+        "he": "משפטים"
+      },
+      "diaspora": {
+        "en": "Mishpatim",
+        "he": "משפטים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-02-17",
+      "hebrew_date": "ב׳ אדר תשפ״ט",
+      "israel": {
+        "en": "Terumah",
+        "he": "תרומה"
+      },
+      "diaspora": {
+        "en": "Terumah",
+        "he": "תרומה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-02-24",
+      "hebrew_date": "ט׳ אדר תשפ״ט",
+      "israel": {
+        "en": "Tetzaveh",
+        "he": "תצוה"
+      },
+      "diaspora": {
+        "en": "Tetzaveh",
+        "he": "תצוה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-03-03",
+      "hebrew_date": "ט״ז אדר תשפ״ט",
+      "israel": {
+        "en": "Ki Sisa",
+        "he": "כי תשא"
+      },
+      "diaspora": {
+        "en": "Ki Sisa",
+        "he": "כי תשא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-03-10",
+      "hebrew_date": "כ״ג אדר תשפ״ט",
+      "israel": {
+        "en": "Vayakhel, Pekudei",
+        "he": "ויקהל, פקודי"
+      },
+      "diaspora": {
+        "en": "Vayakhel, Pekudei",
+        "he": "ויקהל, פקודי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-03-17",
+      "hebrew_date": "א׳ ניסן תשפ״ט",
+      "israel": {
+        "en": "Vayikra",
+        "he": "ויקרא"
+      },
+      "diaspora": {
+        "en": "Vayikra",
+        "he": "ויקרא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-03-24",
+      "hebrew_date": "ח׳ ניסן תשפ״ט",
+      "israel": {
+        "en": "Tzav",
+        "he": "צו"
+      },
+      "diaspora": {
+        "en": "Tzav",
+        "he": "צו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-03-31",
+      "hebrew_date": "ט״ו ניסן תשפ״ט",
+      "israel": {
+        "en": "Pesach",
+        "he": "פסח"
+      },
+      "diaspora": {
+        "en": "Pesach",
+        "he": "פסח"
+      },
+      "different_readings": false,
+      "festival": "Pesach",
+      "festival_he": "פסח",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2029-04-07",
+      "hebrew_date": "כ״ב ניסן תשפ״ט",
+      "israel": {
+        "en": "Shemini",
+        "he": "שמיני"
+      },
+      "diaspora": {
+        "en": "Pesach",
+        "he": "פסח"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-04-14",
+      "hebrew_date": "כ״ט ניסן תשפ״ט",
+      "israel": {
+        "en": "Tazria, Metzora",
+        "he": "תזריע, מצורע"
+      },
+      "diaspora": {
+        "en": "Shemini",
+        "he": "שמיני"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-04-21",
+      "hebrew_date": "ו׳ אייר תשפ״ט",
+      "israel": {
+        "en": "Acharei Mos, Kedoshim",
+        "he": "אחרי מות, קדושים"
+      },
+      "diaspora": {
+        "en": "Tazria, Metzora",
+        "he": "תזריע, מצורע"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-04-28",
+      "hebrew_date": "י״ג אייר תשפ״ט",
+      "israel": {
+        "en": "Emor",
+        "he": "אמור"
+      },
+      "diaspora": {
+        "en": "Acharei Mos, Kedoshim",
+        "he": "אחרי מות, קדושים"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-05-05",
+      "hebrew_date": "כ׳ אייר תשפ״ט",
+      "israel": {
+        "en": "Behar",
+        "he": "בהר"
+      },
+      "diaspora": {
+        "en": "Emor",
+        "he": "אמור"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-05-12",
+      "hebrew_date": "כ״ז אייר תשפ״ט",
+      "israel": {
+        "en": "Bechukosai",
+        "he": "בחוקותי"
+      },
+      "diaspora": {
+        "en": "Behar, Bechukosai",
+        "he": "בהר, בחוקותי"
+      },
+      "different_readings": true,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-05-19",
+      "hebrew_date": "ה׳ סיון תשפ״ט",
+      "israel": {
+        "en": "Bamidbar",
+        "he": "במדבר"
+      },
+      "diaspora": {
+        "en": "Bamidbar",
+        "he": "במדבר"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-05-26",
+      "hebrew_date": "י״ב סיון תשפ״ט",
+      "israel": {
+        "en": "Nasso",
+        "he": "נשא"
+      },
+      "diaspora": {
+        "en": "Nasso",
+        "he": "נשא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-06-02",
+      "hebrew_date": "י״ט סיון תשפ״ט",
+      "israel": {
+        "en": "Beha'aloscha",
+        "he": "בהעלותך"
+      },
+      "diaspora": {
+        "en": "Beha'aloscha",
+        "he": "בהעלותך"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-06-09",
+      "hebrew_date": "כ״ו סיון תשפ״ט",
+      "israel": {
+        "en": "Shelach",
+        "he": "שלח"
+      },
+      "diaspora": {
+        "en": "Shelach",
+        "he": "שלח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-06-16",
+      "hebrew_date": "ג׳ תמוז תשפ״ט",
+      "israel": {
+        "en": "Korach",
+        "he": "קרח"
+      },
+      "diaspora": {
+        "en": "Korach",
+        "he": "קרח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-06-23",
+      "hebrew_date": "י׳ תמוז תשפ״ט",
+      "israel": {
+        "en": "Chukas",
+        "he": "חקת"
+      },
+      "diaspora": {
+        "en": "Chukas",
+        "he": "חקת"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-06-30",
+      "hebrew_date": "י״ז תמוז תשפ״ט",
+      "israel": {
+        "en": "Balak",
+        "he": "בלק"
+      },
+      "diaspora": {
+        "en": "Balak",
+        "he": "בלק"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-07-07",
+      "hebrew_date": "כ״ד תמוז תשפ״ט",
+      "israel": {
+        "en": "Pinchas",
+        "he": "פינחס"
+      },
+      "diaspora": {
+        "en": "Pinchas",
+        "he": "פינחס"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-07-14",
+      "hebrew_date": "ב׳ אב תשפ״ט",
+      "israel": {
+        "en": "Mattos, Masei",
+        "he": "מטות, מסעי"
+      },
+      "diaspora": {
+        "en": "Mattos, Masei",
+        "he": "מטות, מסעי"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-07-21",
+      "hebrew_date": "ט׳ אב תשפ״ט",
+      "israel": {
+        "en": "Devarim",
+        "he": "דברים"
+      },
+      "diaspora": {
+        "en": "Devarim",
+        "he": "דברים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-07-28",
+      "hebrew_date": "ט״ז אב תשפ״ט",
+      "israel": {
+        "en": "Va'eschanan",
+        "he": "ואתחנן"
+      },
+      "diaspora": {
+        "en": "Va'eschanan",
+        "he": "ואתחנן"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-08-04",
+      "hebrew_date": "כ״ג אב תשפ״ט",
+      "israel": {
+        "en": "Eikev",
+        "he": "עקב"
+      },
+      "diaspora": {
+        "en": "Eikev",
+        "he": "עקב"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-08-11",
+      "hebrew_date": "ל׳ אב תשפ״ט",
+      "israel": {
+        "en": "Re'eh",
+        "he": "ראה"
+      },
+      "diaspora": {
+        "en": "Re'eh",
+        "he": "ראה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-08-18",
+      "hebrew_date": "ז׳ אלול תשפ״ט",
+      "israel": {
+        "en": "Shoftim",
+        "he": "שופטים"
+      },
+      "diaspora": {
+        "en": "Shoftim",
+        "he": "שופטים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-08-25",
+      "hebrew_date": "י״ד אלול תשפ״ט",
+      "israel": {
+        "en": "Ki Seitzei",
+        "he": "כי תצא"
+      },
+      "diaspora": {
+        "en": "Ki Seitzei",
+        "he": "כי תצא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-09-01",
+      "hebrew_date": "כ״א אלול תשפ״ט",
+      "israel": {
+        "en": "Ki Savo",
+        "he": "כי תבא"
+      },
+      "diaspora": {
+        "en": "Ki Savo",
+        "he": "כי תבא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-09-08",
+      "hebrew_date": "כ״ח אלול תשפ״ט",
+      "israel": {
+        "en": "Nitzavim",
+        "he": "נצבים"
+      },
+      "diaspora": {
+        "en": "Nitzavim",
+        "he": "נצבים"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-09-15",
+      "hebrew_date": "ו׳ תשרי תש״צ",
+      "israel": {
+        "en": "Vayeilech",
+        "he": "וילך"
+      },
+      "diaspora": {
+        "en": "Vayeilech",
+        "he": "וילך"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-09-22",
+      "hebrew_date": "י״ג תשרי תש״צ",
+      "israel": {
+        "en": "Haazinu",
+        "he": "האזינו"
+      },
+      "diaspora": {
+        "en": "Haazinu",
+        "he": "האזינו"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-09-29",
+      "hebrew_date": "כ׳ תשרי תש״צ",
+      "israel": {
+        "en": "Succos",
+        "he": "סוכות"
+      },
+      "diaspora": {
+        "en": "Succos",
+        "he": "סוכות"
+      },
+      "different_readings": false,
+      "festival": "Succos",
+      "festival_he": "סוכות",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2029-10-06",
+      "hebrew_date": "כ״ז תשרי תש״צ",
+      "israel": {
+        "en": "Bereishis",
+        "he": "בראשית"
+      },
+      "diaspora": {
+        "en": "Bereishis",
+        "he": "בראשית"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-10-13",
+      "hebrew_date": "ד׳ חשון תש״צ",
+      "israel": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "diaspora": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    }
+  ]
+}

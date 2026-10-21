@@ -1,0 +1,864 @@
+{
+  "schema": 1,
+  "origin": "https://raw.githubusercontent.com/Sefaria/Sefaria-Export/master/books.json",
+  "generated_at": "2026-10-02T06:06:29Z",
+  "indexed_at": "2026-10-21T04:55:49.759205+00:00",
+  "works": [
+    {
+      "title": "Baal HaSulam's Introduction to Zohar",
+      "categories": [
+        "Kabbalah",
+        "Baal HaSulam"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Baal%20HaSulam/Baal%20HaSulam%27s%20Introduction%20to%20Zohar/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Baal%20HaSulam/Baal%20HaSulam%27s%20Introduction%20to%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "הקדמות לחכמת האמת - ספר הזוהר"
+    },
+    {
+      "title": "Baal HaSulam's Preface to Zohar",
+      "categories": [
+        "Kabbalah",
+        "Baal HaSulam"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Baal%20HaSulam/Baal%20HaSulam%27s%20Preface%20to%20Zohar/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Baal%20HaSulam/Baal%20HaSulam%27s%20Preface%20to%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "מבוא לספר הזוהר"
+    },
+    {
+      "title": "Chelkat Mechokek",
+      "categories": [
+        "Halakhah",
+        "Shulchan Arukh",
+        "Commentary",
+        "Chelkat Mechokek"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Chelkat%20Mechokek/Chelkat%20Mechokek/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Chelkat%20Mechokek/Chelkat%20Mechokek/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חלקת מחוקק"
+    },
+    {
+      "title": "Chelkat Mechokek on Job",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Alshich",
+        "Writings"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Alshich/Writings/Chelkat%20Mechokek%20on%20Job/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חלקת מחוקק על איוב"
+    },
+    {
+      "title": "Chok Yaakov on Shulchan Arukh, Orach Chayim",
+      "categories": [
+        "Halakhah",
+        "Shulchan Arukh",
+        "Commentary",
+        "Chok Yaakov"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Chok%20Yaakov/Chok%20Yaakov%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חק יעקב על שולחן ערוך אורח חיים"
+    },
+    {
+      "title": "Chokhmat Adam",
+      "categories": [
+        "Halakhah"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Chokhmat%20Adam/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Chokhmat%20Adam/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת אדם"
+    },
+    {
+      "title": "Chokhmat Shlomo on Bava Batra",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nezikin"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nezikin/Chokhmat%20Shlomo%20on%20Bava%20Batra/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על בבא בתרא"
+    },
+    {
+      "title": "Chokhmat Shlomo on Bava Kamma",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nezikin"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nezikin/Chokhmat%20Shlomo%20on%20Bava%20Kamma/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על בבא קמא"
+    },
+    {
+      "title": "Chokhmat Shlomo on Bava Metzia",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nezikin"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nezikin/Chokhmat%20Shlomo%20on%20Bava%20Metzia/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על בבא מציעא"
+    },
+    {
+      "title": "Chokhmat Shlomo on Beitzah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Moed"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Moed/Chokhmat%20Shlomo%20on%20Beitzah/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על ביצה"
+    },
+    {
+      "title": "Chokhmat Shlomo on Berakhot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Zeraim"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Zeraim/Chokhmat%20Shlomo%20on%20Berakhot/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על ברכות"
+    },
+    {
+      "title": "Chokhmat Shlomo on Chullin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Kodashim"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Kodashim/Chokhmat%20Shlomo%20on%20Chullin/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על חולין"
+    },
+    {
+      "title": "Chokhmat Shlomo on Eruvin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Moed"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Moed/Chokhmat%20Shlomo%20on%20Eruvin/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על עירובין"
+    },
+    {
+      "title": "Chokhmat Shlomo on Gittin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nashim"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nashim/Chokhmat%20Shlomo%20on%20Gittin/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על גיטין"
+    },
+    {
+      "title": "Chokhmat Shlomo on Ketubot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nashim"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nashim/Chokhmat%20Shlomo%20on%20Ketubot/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על כתובות"
+    },
+    {
+      "title": "Chokhmat Shlomo on Kiddushin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nashim"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nashim/Chokhmat%20Shlomo%20on%20Kiddushin/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על קידושין"
+    },
+    {
+      "title": "Chokhmat Shlomo on Makkot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nezikin"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nezikin/Chokhmat%20Shlomo%20on%20Makkot/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על מכות"
+    },
+    {
+      "title": "Chokhmat Shlomo on Niddah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Tahorot"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Tahorot/Chokhmat%20Shlomo%20on%20Niddah/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על נדה"
+    },
+    {
+      "title": "Chokhmat Shlomo on Pesachim",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Moed"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Moed/Chokhmat%20Shlomo%20on%20Pesachim/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על פסחים"
+    },
+    {
+      "title": "Chokhmat Shlomo on Sanhedrin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nezikin"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nezikin/Chokhmat%20Shlomo%20on%20Sanhedrin/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על סנהדרין"
+    },
+    {
+      "title": "Chokhmat Shlomo on Shabbat",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Moed"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Moed/Chokhmat%20Shlomo%20on%20Shabbat/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על שבת"
+    },
+    {
+      "title": "Chokhmat Shlomo on Shevuot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nezikin"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nezikin/Chokhmat%20Shlomo%20on%20Shevuot/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על שבועות"
+    },
+    {
+      "title": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat",
+      "categories": [
+        "Halakhah",
+        "Shulchan Arukh",
+        "Commentary",
+        "Chokhmat Shlomo"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Chokhmat%20Shlomo/Chokhmat%20Shlomo%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על שולחן ערוך, חושן משפט"
+    },
+    {
+      "title": "Chokhmat Shlomo on Shulchan Arukh, Even HaEzer",
+      "categories": [
+        "Halakhah",
+        "Shulchan Arukh",
+        "Commentary",
+        "Chokhmat Shlomo"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Chokhmat%20Shlomo/Chokhmat%20Shlomo%20on%20Shulchan%20Arukh%2C%20Even%20HaEzer/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על שולחן ערוך, אבן העזר"
+    },
+    {
+      "title": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim",
+      "categories": [
+        "Halakhah",
+        "Shulchan Arukh",
+        "Commentary",
+        "Chokhmat Shlomo"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Chokhmat%20Shlomo/Chokhmat%20Shlomo%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Chokhmat%20Shlomo/Chokhmat%20Shlomo%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על שולחן ערוך, אורח חיים"
+    },
+    {
+      "title": "Chokhmat Shlomo on Sotah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nashim"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nashim/Chokhmat%20Shlomo%20on%20Sotah/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על סוטה"
+    },
+    {
+      "title": "Chokhmat Shlomo on Sukkah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Moed"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Moed/Chokhmat%20Shlomo%20on%20Sukkah/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על סוכה"
+    },
+    {
+      "title": "Chokhmat Shlomo on Yevamot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Chokhmat Shlomo",
+        "Seder Nashim"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Chokhmat%20Shlomo/Seder%20Nashim/Chokhmat%20Shlomo%20on%20Yevamot/Hebrew/merged.json"
+        }
+      },
+      "he_title": "חכמת שלמה על יבמות"
+    },
+    {
+      "title": "Kalach Pitchei Chokhmah",
+      "categories": [
+        "Kabbalah",
+        "Ramchal"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Kalach%20Pitchei%20Chokhmah/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Kalach%20Pitchei%20Chokhmah/Hebrew/merged.json"
+        }
+      },
+      "he_title": "קל\"ח פתחי חכמה"
+    },
+    {
+      "title": "Ketem Paz on Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Ketem%20Paz%20on%20Zohar/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Ketem%20Paz%20on%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "כתם פז על ספר הזהר"
+    },
+    {
+      "title": "Ma'amar Zohar HaRakia",
+      "categories": [
+        "Kabbalah",
+        "Other Kabbalah Works"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Other%20Kabbalah%20Works/Ma%27amar%20Zohar%20HaRakia/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Other%20Kabbalah%20Works/Ma%27amar%20Zohar%20HaRakia/Hebrew/merged.json"
+        }
+      },
+      "he_title": "מאמר זהר הרקיע"
+    },
+    {
+      "title": "Mechokekei Yehudah; Karnei Ohr",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Mechokekei Yehudah"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Mechokekei%20Yehudah/Mechokekei%20Yehudah%3B%20Karnei%20Ohr/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Mechokekei%20Yehudah/Mechokekei%20Yehudah%3B%20Karnei%20Ohr/Hebrew/merged.json"
+        }
+      },
+      "he_title": "מחוקקי יהודה קרני אור"
+    },
+    {
+      "title": "Mechokekei Yehudah; Yahel Ohr",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Mechokekei Yehudah"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Mechokekei%20Yehudah/Mechokekei%20Yehudah%3B%20Yahel%20Ohr/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Mechokekei%20Yehudah/Mechokekei%20Yehudah%3B%20Yahel%20Ohr/Hebrew/merged.json"
+        }
+      },
+      "he_title": "מחוקקי יהודה יהל אור"
+    },
+    {
+      "title": "Meshekh Chokhmah",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Meshech Hochma"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Meshech%20Hochma/Meshekh%20Chokhmah/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Meshech%20Hochma/Meshekh%20Chokhmah/Hebrew/merged.json"
+        }
+      },
+      "he_title": "משך חכמה"
+    },
+    {
+      "title": "Mikdash Melekh on Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Mikdash%20Melekh%20on%20Zohar/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Mikdash%20Melekh%20on%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "מקדש מלך על ספר הזהר"
+    },
+    {
+      "title": "Mikdash Melekh, RaMaZ Commentary on Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Mikdash%20Melekh%2C%20RaMaZ%20Commentary%20on%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "מקדש מלך, פירוש הרמ\"ז על ספר הזהר"
+    },
+    {
+      "title": "Nefesh David on Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Nefesh%20David%20on%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "נפש דוד על ספר הזהר"
+    },
+    {
+      "title": "Ohr HaChammah on Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Ohr%20HaChammah%20on%20Zohar/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Ohr%20HaChammah%20on%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "אור החמה על ספר הזהר"
+    },
+    {
+      "title": "Petichah LeChokhmat HaKabbalah",
+      "categories": [
+        "Kabbalah",
+        "Baal HaSulam"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Baal%20HaSulam/Petichah%20LeChokhmat%20HaKabbalah/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Baal%20HaSulam/Petichah%20LeChokhmat%20HaKabbalah/Hebrew/merged.json"
+        }
+      },
+      "he_title": "פתיחה לחכמת הקבלה"
+    },
+    {
+      "title": "Reshit Chokhmah",
+      "categories": [
+        "Kabbalah",
+        "Other Kabbalah Works"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Other%20Kabbalah%20Works/Reshit%20Chokhmah/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Other%20Kabbalah%20Works/Reshit%20Chokhmah/Hebrew/merged.json"
+        }
+      },
+      "he_title": "ראשית חכמה"
+    },
+    {
+      "title": "Sulam on Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Sulam%20on%20Zohar/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Sulam%20on%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "הסולם על ספר הזהר"
+    },
+    {
+      "title": "Ta'alumot Chokhmah on Ecclesiastes",
+      "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Imrei Yosher"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Imrei%20Yosher/Ta%27alumot%20Chokhmah%20on%20Ecclesiastes/Hebrew/merged.json"
+        }
+      },
+      "he_title": "תעלומות חכמה על קהלת"
+    },
+    {
+      "title": "Tikkunei Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Tikkunei%20Zohar/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Tikkunei%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "תקוני הזהר"
+    },
+    {
+      "title": "Yahel Ohr on Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Yahel%20Ohr%20on%20Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "יהל אור על ספר הזהר"
+    },
+    {
+      "title": "Zohar",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Zohar/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Zohar/Hebrew/merged.json"
+        }
+      },
+      "he_title": "ספר הזהר"
+    },
+    {
+      "title": "Zohar Chadash",
+      "categories": [
+        "Kabbalah",
+        "Zohar"
+      ],
+      "languages": {
+        "English": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Zohar%20Chadash/English/merged.json"
+        },
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Zohar%20Chadash/Hebrew/merged.json"
+        }
+      },
+      "he_title": "זוהר חדש"
+    },
+    {
+      "title": "Zohar HaRakia",
+      "categories": [
+        "Halakhah",
+        "Commentary"
+      ],
+      "languages": {
+        "Hebrew": {
+          "version": "merged",
+          "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Commentary/Zohar%20HaRakia/Hebrew/merged.json"
+        }
+      },
+      "he_title": "זוהר הרקיע"
+    }
+  ],
+  "hebrew_titles": {
+    "Baal HaSulam's Introduction to Zohar": "הקדמות לחכמת האמת - ספר הזוהר",
+    "Baal HaSulam's Preface to Zohar": "מבוא לספר הזוהר",
+    "Chelkat Mechokek": "חלקת מחוקק",
+    "Chelkat Mechokek on Job": "חלקת מחוקק על איוב",
+    "Chok Yaakov on Shulchan Arukh, Orach Chayim": "חק יעקב על שולחן ערוך אורח חיים",
+    "Chokhmat Adam": "חכמת אדם",
+    "Chokhmat Shlomo on Bava Batra": "חכמת שלמה על בבא בתרא",
+    "Chokhmat Shlomo on Bava Kamma": "חכמת שלמה על בבא קמא",
+    "Chokhmat Shlomo on Bava Metzia": "חכמת שלמה על בבא מציעא",
+    "Chokhmat Shlomo on Beitzah": "חכמת שלמה על ביצה",
+    "Chokhmat Shlomo on Berakhot": "חכמת שלמה על ברכות",
+    "Chokhmat Shlomo on Chullin": "חכמת שלמה על חולין",
+    "Chokhmat Shlomo on Eruvin": "חכמת שלמה על עירובין",
+    "Chokhmat Shlomo on Gittin": "חכמת שלמה על גיטין",
+    "Chokhmat Shlomo on Ketubot": "חכמת שלמה על כתובות",
+    "Chokhmat Shlomo on Kiddushin": "חכמת שלמה על קידושין",
+    "Chokhmat Shlomo on Makkot": "חכמת שלמה על מכות",
+    "Chokhmat Shlomo on Niddah": "חכמת שלמה על נדה",
+    "Chokhmat Shlomo on Pesachim": "חכמת שלמה על פסחים",
+    "Chokhmat Shlomo on Sanhedrin": "חכמת שלמה על סנהדרין",
+    "Chokhmat Shlomo on Shabbat": "חכמת שלמה על שבת",
+    "Chokhmat Shlomo on Shevuot": "חכמת שלמה על שבועות",
+    "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat": "חכמת שלמה על שולחן ערוך, חושן משפט",
+    "Chokhmat Shlomo on Shulchan Arukh, Even HaEzer": "חכמת שלמה על שולחן ערוך, אבן העזר",
+    "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim": "חכמת שלמה על שולחן ערוך, אורח חיים",
+    "Chokhmat Shlomo on Sotah": "חכמת שלמה על סוטה",
+    "Chokhmat Shlomo on Sukkah": "חכמת שלמה על סוכה",
+    "Chokhmat Shlomo on Yevamot": "חכמת שלמה על יבמות",
+    "Kalach Pitchei Chokhmah": "קל\"ח פתחי חכמה",
+    "Ketem Paz on Zohar": "כתם פז על ספר הזהר",
+    "Ma'amar Zohar HaRakia": "מאמר זהר הרקיע",
+    "Mechokekei Yehudah; Karnei Ohr": "מחוקקי יהודה קרני אור",
+    "Mechokekei Yehudah; Yahel Ohr": "מחוקקי יהודה יהל אור",
+    "Meshekh Chokhmah": "משך חכמה",
+    "Mikdash Melekh on Zohar": "מקדש מלך על ספר הזהר",
+    "Mikdash Melekh, RaMaZ Commentary on Zohar": "מקדש מלך, פירוש הרמ\"ז על ספר הזהר",
+    "Nefesh David on Zohar": "נפש דוד על ספר הזהר",
+    "Ohr HaChammah on Zohar": "אור החמה על ספר הזהר",
+    "Petichah LeChokhmat HaKabbalah": "פתיחה לחכמת הקבלה",
+    "Reshit Chokhmah": "ראשית חכמה",
+    "Sulam on Zohar": "הסולם על ספר הזהר",
+    "Ta'alumot Chokhmah on Ecclesiastes": "תעלומות חכמה על קהלת",
+    "Tikkunei Zohar": "תקוני הזהר",
+    "Yahel Ohr on Zohar": "יהל אור על ספר הזהר",
+    "Zohar": "ספר הזהר",
+    "Zohar Chadash": "זוהר חדש",
+    "Zohar HaRakia": "זוהר הרקיע"
+  },
+  "scope": "Zohar and related works"
+}
