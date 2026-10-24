@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-10-24T23:47:26.608637+03:00",
+  "calculated_at": "2026-10-25T01:12:29.194290+02:00",
   "timezone": "Asia/Jerusalem",
   "weeks": [
-    {
-      "target_shabbat": "2026-10-10",
-      "hebrew_date": "כ״ט תשרי תשפ״ז",
-      "israel": {
-        "en": "Bereishis",
-        "he": "בראשית"
-      },
-      "diaspora": {
-        "en": "Bereishis",
-        "he": "בראשית"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": true
-    },
     {
       "target_shabbat": "2026-10-17",
       "hebrew_date": "ו׳ חשון תשפ״ז",
@@ -2525,6 +2509,22 @@
       "diaspora": {
         "en": "Noach",
         "he": "נח"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-10-20",
+      "hebrew_date": "י״א חשון תש״צ",
+      "israel": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "diaspora": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
       },
       "different_readings": false,
       "festival": null,
