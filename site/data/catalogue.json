@@ -39,6 +39,19 @@
       },
       "target_shabbat": "2026-10-24",
       "category": "zohar"
+    },
+    {
+      "id": "5787-2026-10-31",
+      "title": {
+        "en": "Disclosure, warning and the memory of covenant",
+        "he": "גילוי, אזהרה וזיכרון הברית"
+      },
+      "parashah": {
+        "en": "Vayeira",
+        "he": "וירא"
+      },
+      "target_shabbat": "2026-10-31",
+      "category": "zohar"
     }
   ]
 }
