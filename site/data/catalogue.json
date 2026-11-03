@@ -52,6 +52,19 @@
       },
       "target_shabbat": "2026-10-31",
       "category": "zohar"
+    },
+    {
+      "id": "5787-2026-11-07",
+      "title": {
+        "en": "Life, burial and the promise of return",
+        "he": "חיים, קבורה והבטחת השיבה"
+      },
+      "parashah": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
+      },
+      "target_shabbat": "2026-11-07",
+      "category": "zohar"
     }
   ]
 }
