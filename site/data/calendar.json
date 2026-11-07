@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-11-07T20:46:38.091753+02:00",
+  "calculated_at": "2026-11-08T00:44:49.019973+02:00",
   "timezone": "Asia/Jerusalem",
   "weeks": [
-    {
-      "target_shabbat": "2026-10-24",
-      "hebrew_date": "י״ג חשון תשפ״ז",
-      "israel": {
-        "en": "Lech Lecha",
-        "he": "לך לך"
-      },
-      "diaspora": {
-        "en": "Lech Lecha",
-        "he": "לך לך"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": true
-    },
     {
       "target_shabbat": "2026-10-31",
       "hebrew_date": "כ׳ חשון תשפ״ז",
@@ -2525,6 +2509,22 @@
       "diaspora": {
         "en": "Vayeira",
         "he": "וירא"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-11-03",
+      "hebrew_date": "כ״ה חשון תש״צ",
+      "israel": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
+      },
+      "diaspora": {
+        "en": "Chayei Sarah",
+        "he": "חיי שרה"
       },
       "different_readings": false,
       "festival": null,
