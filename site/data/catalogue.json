@@ -65,6 +65,19 @@
       },
       "target_shabbat": "2026-11-07",
       "category": "zohar"
+    },
+    {
+      "id": "5787-2026-11-14",
+      "title": {
+        "en": "Creation, differing paths and the tears of return",
+        "he": "בריאה, דרכים שונות ודמעות השיבה"
+      },
+      "parashah": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "target_shabbat": "2026-11-14",
+      "category": "zohar"
     }
   ]
 }
