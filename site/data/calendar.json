@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-11-14T23:28:40.411873+02:00",
+  "calculated_at": "2026-11-15T03:53:39.504737+02:00",
   "timezone": "Asia/Jerusalem",
   "weeks": [
-    {
-      "target_shabbat": "2026-10-31",
-      "hebrew_date": "כ׳ חשון תשפ״ז",
-      "israel": {
-        "en": "Vayeira",
-        "he": "וירא"
-      },
-      "diaspora": {
-        "en": "Vayeira",
-        "he": "וירא"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": true
-    },
     {
       "target_shabbat": "2026-11-07",
       "hebrew_date": "כ״ז חשון תשפ״ז",
@@ -2525,6 +2509,22 @@
       "diaspora": {
         "en": "Chayei Sarah",
         "he": "חיי שרה"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2029-11-10",
+      "hebrew_date": "ג׳ כסלו תש״צ",
+      "israel": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "diaspora": {
+        "en": "Toldos",
+        "he": "תולדות"
       },
       "different_readings": false,
       "festival": null,
