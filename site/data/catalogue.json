@@ -78,6 +78,19 @@
       },
       "target_shabbat": "2026-11-14",
       "category": "zohar"
+    },
+    {
+      "id": "5787-2026-11-21",
+      "title": {
+        "en": "Departure, a growing household and the time to return",
+        "he": "יציאה, בית צומח ועת השיבה"
+      },
+      "parashah": {
+        "en": "Vayeitzei",
+        "he": "ויצא"
+      },
+      "target_shabbat": "2026-11-21",
+      "category": "zohar"
     }
   ]
 }
