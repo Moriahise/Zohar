@@ -91,6 +91,19 @@
       },
       "target_shabbat": "2026-11-21",
       "category": "zohar"
+    },
+    {
+      "id": "5787-2026-11-28",
+      "title": {
+        "en": "Guarding the way and learning to bear the light",
+        "he": "שמירת הדרך ולימוד נשיאת האור"
+      },
+      "parashah": {
+        "en": "Vayishlach",
+        "he": "וישלח"
+      },
+      "target_shabbat": "2026-11-28",
+      "category": "zohar"
     }
   ]
 }
